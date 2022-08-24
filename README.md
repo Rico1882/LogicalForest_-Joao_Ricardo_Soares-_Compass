@@ -1,3 +1,21 @@
-# LogicalForest_-Joao_Ricardo_Soares-_Compass
-teste
-teste
+# Calculadora - Compass
+
+
+## Sobre o Projeto
+
+
+
+
+## Tecnologias
+
+
+
+
+## Como exucutar a Calculadora
+
+
+
+
+## Autor
+
+
