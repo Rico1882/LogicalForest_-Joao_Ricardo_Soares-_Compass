@@ -3,21 +3,20 @@
 
 ## Sobre o Projeto Calculadora - Compass-UOL - Programa de Bolsas
 
-Projeto realizado no programa de Bolsas da Compass-Uol com intuíto de desenvolvimento de uma calculdora com implementação de testes referente as suas funções.
+Projeto realizado no programa de Bolsas da Compass-Uol com intuito de desenvolvimento de uma calculadora com implementação de testes referente as suas funções.
 
 Calculadora desenvolvida com a Linguagem Javascript com Node.js e testes realizados com o Mocha e Chai.
 
 Exemplos de Funções Aritméticas desenvolvidas:
 
-#### Soma
-#### Subtração
+#### * Soma
+#### * Subtração
 #### Multiplicação
 #### Divisão
 #### Porcentagem
 #### Raiz Quadrada
 #### Raiz Cúbica
 #### Potenciação
-
 
 ## Tecnologias
 
@@ -32,7 +31,7 @@ Exemplos de Funções Aritméticas desenvolvidas:
 ### Chai
 
 
-## Como exucutar a Calculadora
+## Como executar a Calculadora
 
 
 
