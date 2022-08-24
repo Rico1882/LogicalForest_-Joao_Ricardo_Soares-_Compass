@@ -25,4 +25,13 @@ export default class Calculadora {
     static porcent (a, b) {
         return ([a / b] * 100)
     }
+
+    static raiz_cub (a) {
+        return Math.cbrt (a)
+    }
+
+    static potencia (a, b) {
+        return Math.pow (a, b)
+    }
+    
 }
