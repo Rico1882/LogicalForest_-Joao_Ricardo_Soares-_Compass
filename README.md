@@ -11,27 +11,41 @@ Exemplos de Funções Aritméticas desenvolvidas:
 
 #### * Soma
 #### * Subtração
-#### Multiplicação
-#### Divisão
-#### Porcentagem
-#### Raiz Quadrada
-#### Raiz Cúbica
-#### Potenciação
-
-## Tecnologias
-
-## Construção do Código
-
-### Javascript
-### Node.js
-
-## Construção dos teste
-
-### Mocha
-### Chai
+#### * Multiplicação
+#### * Divisão
+#### * Porcentagem
+#### * Raiz Quadrada
+#### * Raiz Cúbica
+#### * Potenciação
 
 
-## Como executar a Calculadora
+
+# **Tecnologias**
+
+## **Construção do Código**
+
+#### <img src="C:\Users\João Ricardo\Downloads\imagem JS.png" style="zoom:5%;" /> <u>Javascript</u>
+### <img src="C:\Users\João Ricardo\Downloads\imagem nodejs.png" style="zoom:5%;" /> <u>Node.js</u>
+
+
+
+## **Construção dos teste**
+
+### ![](C:\Users\João Ricardo\Downloads\imagem mocha e chai.png)<u>Mocha</u> e <u>Chai</u>
+
+
+
+
+
+## Executando a Calculadora
+
+
+
+
+
+
+
+
 
 
 
