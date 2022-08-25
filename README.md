@@ -36,7 +36,7 @@ Para execução dos testes
 npm test
 ```
 
-Deployment
+## Deployment
 
 Para atualização do projeto usar conforme abaixo:
 
