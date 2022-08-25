@@ -20,20 +20,24 @@ Exemplos de Funções Aritméticas desenvolvidas:
 
 
 
-# **Tecnologias**
+# **Tecnologias Utilizadas**
 
 ## **Construção do Código**
 
-#### <img src="C:\Users\João Ricardo\Downloads\imagem JS.png" style="zoom:5%;" /> <u>Javascript</u>
-### <img src="C:\Users\João Ricardo\Downloads\imagem nodejs.png" style="zoom:5%;" /> <u>Node.js</u>
+###  <u>Javascript</u>
+###  <u>Node.js</u>
 
 
 
 ## **Construção dos teste**
 
-### ![](C:\Users\João Ricardo\Downloads\imagem mocha e chai.png)<u>Mocha</u> e <u>Chai</u>
+### <u>Mocha</u> e <u>Chai</u>
 
 
+
+# **IDE**
+
+### **<u>VS Code</u>**
 
 
 
