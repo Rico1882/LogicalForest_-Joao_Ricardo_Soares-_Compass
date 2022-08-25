@@ -3,7 +3,7 @@
 
 ## Sobre o Projeto Calculadora - Compass-UOL - Programa de Bolsas
 
-Projeto realizado no programa de Bolsas da Compass-Uol com intuito de desenvolvimento de uma calculadora com implementação de testes referente as suas funções.
+Projeto realizado no programa de Bolsas da Compass-Uol com intuíto de desenvolvimento de uma calculadora com implementação de testes referente as suas funções.
 
 ## Pré requisitos
 
@@ -21,7 +21,7 @@ Compatível com sistemas Operacionais Windows/Mac/Linux e será necessário a in
 
 + Links para instalação
 
-VSCode:  https://code.visualstudio.com/download
+VSCode: https://code.visualstudio.com/download
 
 NodeJS: https://nodejs.org/en/download/
 
