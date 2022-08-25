@@ -5,19 +5,25 @@
 
 Projeto realizado no programa de Bolsas da Compass-Uol com intuito de desenvolvimento de uma calculadora com implementação de testes referente as suas funções.
 
-Calculadora desenvolvida com a Linguagem Javascript com Node.js e testes realizados com o Mocha e Chai.
+## Pré requisitos
 
-Exemplos de Funções Aritméticas desenvolvidas:
+Compatível com sistemas Operacionais Windows/Mac/Linux e será necessário a instalação dos softwares abaixo:
 
-+ Soma
-+ Subtração
-+ Multiplicação
-+ Divisão
-+ Porcentagem
-+ Raiz Quadrada
-+ Raiz Cúbica
-+ Potenciação
++ NodeJS
 
++ Mocha
+
++ Chai
+
+## Instalação
+
++ Links para instalação
+
+NodeJS: https://nodejs.org/en/download/
+
+Mocha: https://mochajs.org/
+
+Chai: https://www.chaijs.com/
 
 
 # **Tecnologias Utilizadas**
