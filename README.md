@@ -9,14 +9,14 @@ Calculadora desenvolvida com a Linguagem Javascript com Node.js e testes realiza
 
 Exemplos de Funções Aritméticas desenvolvidas:
 
-#### * Soma
-#### * Subtração
-#### * Multiplicação
-#### * Divisão
-#### * Porcentagem
-#### * Raiz Quadrada
-#### * Raiz Cúbica
-#### * Potenciação
++ Soma
++ Subtração
++ Multiplicação
++ Divisão
++ Porcentagem
++ Raiz Quadrada
++ Raiz Cúbica
++ Potenciação
 
 
 
@@ -24,20 +24,20 @@ Exemplos de Funções Aritméticas desenvolvidas:
 
 ## **Construção do Código**
 
-###  <u>Javascript</u>
-###  <u>Node.js</u>
++ ###  <u>Javascript</u>
++ ###  <u>Node.js</u>
 
 
 
 ## **Construção dos teste**
 
-### <u>Mocha</u> e <u>Chai</u>
++ ### <u>Mocha</u> e <u>Chai</u>
 
 
 
 # **IDE**
 
-### **<u>VS Code</u>**
++ ### **<u>VS Code</u>**
 
 
 
